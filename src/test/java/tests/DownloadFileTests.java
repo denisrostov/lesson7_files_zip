@@ -8,7 +8,7 @@ import utils.Files;
 import java.io.File;
 
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
+
 
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
