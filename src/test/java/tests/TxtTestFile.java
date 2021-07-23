@@ -11,7 +11,7 @@ import static utils.Files.readTextFromPath;
 public class TxtTestFile {
     @Test
     void txtTest() throws IOException {
-        String txtFilePath = "src/test/resorces/files/1.txt";
+        String txtFilePath = "src/test/resources/files/1.txt";
         String expectedData = "Hello!";
         String actualData = readTextFromPath(txtFilePath);
         assertThat(actualData, containsString(expectedData));
