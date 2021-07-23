@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="tests.PdfFileTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-23T18:23:27" hostname="WIN-EKBEAAT4G2L" time="0.74">
-  <properties/>
-  <testcase name="pdfTest()" classname="tests.PdfFileTests" time="0.74"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
