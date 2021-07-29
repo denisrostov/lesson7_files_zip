@@ -1,8 +1,0 @@
-tests/TxtTestFile.java
- tests.TxtTestFile
-tests/DownloadFileTests.java
- tests.DownloadFileTests
-utils/Files.java
- utils.Files
-tests/PdfFileTests.java
- tests.PdfFileTests
